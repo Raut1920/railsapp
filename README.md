@@ -1,2 +1,0 @@
-# railsapp
-my project
