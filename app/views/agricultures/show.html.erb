@@ -1,0 +1,49 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @agriculture.name %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @agriculture.description %>
+</p>
+
+<p>
+  <strong>Varieties:</strong>
+  <%= @agriculture.varieties %>
+</p>
+
+<p>
+  <strong>Climate:</strong>
+  <%= @agriculture.climate %>
+</p>
+
+<p>
+  <strong>Soil:</strong>
+  <%= @agriculture.soil %>
+</p>
+
+<p>
+  <strong>Seedrate:</strong>
+  <%= @agriculture.seedrate %>
+</p>
+
+<p>
+  <strong>Season:</strong>
+  <%= @agriculture.season %>
+</p>
+
+<p>
+  <strong>Fertilizer:</strong>
+  <%= @agriculture.fertilizer %>
+</p>
+
+<p>
+  <strong>Diseases:</strong>
+  <%= @agriculture.diseases %>
+</p>
+
+<%= link_to 'Edit', edit_agriculture_path(@agriculture) %> |
+<%= link_to 'Back', agricultures_path %>

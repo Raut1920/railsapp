@@ -1,0 +1,2 @@
+json.extract! horticulture, :id, :name, :description, :varieties, :climate, :soil, :seedrate, :season, :fertilizer, :diseases, :created_at, :updated_at
+json.url horticulture_url(horticulture, format: :json)

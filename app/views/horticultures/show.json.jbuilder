@@ -1,0 +1,1 @@
+json.partial! "horticultures/horticulture", horticulture: @horticulture

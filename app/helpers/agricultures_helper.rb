@@ -1,0 +1,2 @@
+module AgriculturesHelper
+end

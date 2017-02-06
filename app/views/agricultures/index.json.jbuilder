@@ -1,0 +1,1 @@
+json.array! @agricultures, partial: 'agricultures/agriculture', as: :agriculture

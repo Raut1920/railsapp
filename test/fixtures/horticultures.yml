@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  varieties: MyString
+  climate: MyString
+  soil: MyString
+  seedrate: MyString
+  season: MyString
+  fertilizer: MyString
+  diseases: MyString
+
+two:
+  name: MyString
+  description: MyString
+  varieties: MyString
+  climate: MyString
+  soil: MyString
+  seedrate: MyString
+  season: MyString
+  fertilizer: MyString
+  diseases: MyString
