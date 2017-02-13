@@ -19,7 +19,7 @@
 
 $(document).ready(function(){
 
-   $('div#mod1').slideDown(1500);
+  $('div#mod1').slideDown(1500);
    
 });
 

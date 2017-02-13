@@ -43,24 +43,25 @@
 
 <div class="home1">
 <div id="menu">
-<div id="mod1"><a href="hom" class="btn btn-xs"><%= image_tag("module1.png" ) %></a></div>
-<div id="mod1"><a href="g" class="btn btn-xs"><%= image_tag("module2.png" ) %></a></div>
-<div id="mod1"><a href="g" class="btn btn-xs"><%= image_tag("module3.png" ) %></a></div>
-<div id="mod1"><a href="g" class="btn btn-xs"><%= image_tag("module4.png" ) %></a></div>
+<div id="mod1"><a href="#homa2" class="btn btn-xs"><%= image_tag("module1.png" ) %></a></div>
+<div id="mod1"><a href="#homa3" class="btn btn-xs"><%= image_tag("module2.png" ) %></a></div>
+<div id="mod1"><a href="#homa4" class="btn btn-xs"><%= image_tag("module3.png" ) %></a></div>
+<div id="mod1"><a href="#homa5" class="btn btn-xs"><%= image_tag("module4.png" ) %></a></div>
 <div id="mod1"><a href="g" class="btn btn-xs"><%= image_tag("module5.png" ) %></a></div>
 <div id="mod1"><a href="g" class="btn btn-xs"><%= image_tag("module6.png" ) %></a></div>
 <div id="mod1"><a href="g" class="btn btn-xs"><%= image_tag("module7.png" ) %></a></div>
+<a href="#homa5" class="btn btn-xs"><%= image_tag("module1.png" ) %></a>
 </div>
 </div>
-<div class="home2">
-</div>
+<section id="homa2" class="home2">
+</section>
 
-<div class="home3">
-</div>
-<div id="hom" class="home4">
-</div>
-<div class="home5">
-</div>
+<section id="homa3" class="home3">
+</section>
+<section id="homa4" class="home4">
+</section>
+<section id="homa5" class="home5">
+</section>
 <div class="containeri">
   <br>
   <div class="carousel slide" data-ride="carousel">

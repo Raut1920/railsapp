@@ -20,10 +20,10 @@
   background-color:transparent;
  
 }
+.page-scroll{color:#ffffff;}
 .navbar-custom:hover {
   background-color:#00FF7F;
-  color:red;
- 
+  opacity:6;
 }
 .containeri{
 padding-top:40px;
@@ -41,7 +41,7 @@ height:650px;
 
 .home2{
 background-image: url(machine.jpg);
-padding-top:350px;
+padding-top:450px;
 width:100%;
 height:650px;
 }
