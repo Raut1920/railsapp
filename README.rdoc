@@ -5,7 +5,20 @@
 
 following application modules
 
-1] Horticulture
+A] Horticulture
+1. fruitscrop
+2. vegetablescrop
+3. plantationcrop
+4. flowercrop
+5. spicecrop
+
+
+
+
+
+
+
+
 2] Machinery
 3] Fishries
 4] Irrigation
