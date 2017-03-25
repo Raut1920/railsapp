@@ -12,19 +12,22 @@ A] Horticulture
 4. flowercrop
 5. spicecrop
 
+B] Machinery
+1.Soil cultivation
+2.Planting
+3.Fertilizing & Pest Control
+4.Irrigation
+5.Harvesting / post-harvest
+7.Hay making
+http://tractors.wikia.com/wiki/List_of_Types_of_Agricultural_Machinery
 
 
 
-
-
-
-
-2] Machinery
-3] Fishries
-4] Irrigation
-5] Agriculture
-6] Milk Dairy
-7] Fertilizers
+C] Fishries
+D] Irrigation
+E] Agriculture
+F] Milk Dairy
+G] Fertilizers
 
 Database dependencies:-
 
