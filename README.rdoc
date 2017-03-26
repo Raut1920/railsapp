@@ -13,13 +13,15 @@ A] Horticulture
 5. spicecrop
 
 B] Machinery
-1.Soil cultivation
-2.Planting
-3.Fertilizing & Pest Control
-4.Irrigation
-5.Harvesting / post-harvest
-7.Hay making
-http://tractors.wikia.com/wiki/List_of_Types_of_Agricultural_Machinery
+1.Tractor
+2.sprayer
+3.cultivation
+4.harvester
+5.seeders
+7.wheel tractor scrapper
+8.plough
+9.baler
+
 
 
 C] Fishries
