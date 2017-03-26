@@ -1,0 +1,47 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Tractors</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Image</th>
+      <th>Engine</th>
+      <th>Model</th>
+      <th>Type</th>
+      <th>Bore</th>
+      <th>Stroke</th>
+      <th>Capacity</th>
+      <th>Enginerpm</th>
+      <th>Gearbox</th>
+      <th>Battery</th>
+      <th>Dieseltank</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @tractors.each do |tractor| %>
+      <tr>
+        <td><%= tractor.image %></td>
+        <td><%= tractor.engine %></td>
+        <td><%= tractor.model %></td>
+        <td><%= tractor.type %></td>
+        <td><%= tractor.bore %></td>
+        <td><%= tractor.stroke %></td>
+        <td><%= tractor.capacity %></td>
+        <td><%= tractor.enginerpm %></td>
+        <td><%= tractor.gearbox %></td>
+        <td><%= tractor.battery %></td>
+        <td><%= tractor.dieseltank %></td>
+        <td><%= link_to 'Show', tractor %></td>
+        <td><%= link_to 'Edit', edit_tractor_path(tractor) %></td>
+        <td><%= link_to 'Destroy', tractor, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Tractor', new_tractor_path %>
